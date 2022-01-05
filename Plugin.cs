@@ -19,7 +19,7 @@ namespace PheonixPack
 		public const string APIGUID = "cyantist.inscryption.api";
 		public const string SigilGUID = "extraVoid.inscryption.voidSigils";
 		public const string PluginGuid = "extraVoid.inscryption.void_pheonix_pack";
-		private const string PluginName = "Void Bone Pack";
+		private const string PluginName = "Pheonix Inscryption";
 		private const string PluginVersion = "1.0.0";
 
 		public static string Directory;
