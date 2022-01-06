@@ -5,7 +5,7 @@ using DiskCardGame;
 using HarmonyLib;
 using UnityEngine;
 using APIPlugin;
-using Resources = PheonixPack.Artwork.Resources;
+using Resources = PheonixPack.Resources.Artwork;
 
 namespace PheonixPack.cards
 {
@@ -36,10 +36,11 @@ namespace PheonixPack.cards
 			List<SpecialTriggeredAbility> specialAbilities = new List<SpecialTriggeredAbility>();
 
 			List<CardAppearanceBehaviour.Appearance> appearanceBehaviour = new List<CardAppearanceBehaviour.Appearance>();
+			appearanceBehaviour.Add(CardAppearanceBehaviour.Appearance.RareCardBackground);
 
-			Texture2D DefaultTexture = SigilUtils.LoadTextureFromResource(Resources.PI_Koeno_converted);
+			Texture2D DefaultTexture = SigilUtils.LoadTextureFromResource(Resources.Artwork.Snufaroth);
 
-			Texture2D eTexture = SigilUtils.LoadTextureFromResource(Resources.PI_Koeno_converted);
+			Texture2D eTexture = SigilUtils.LoadTextureFromResource(Resources.Artwork.Snufaroth);
 
 			string description = "...";
 

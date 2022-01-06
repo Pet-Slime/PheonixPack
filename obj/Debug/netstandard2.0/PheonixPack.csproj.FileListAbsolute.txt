@@ -1,0 +1,16 @@
+C:\Users\anime\Source\Repos\PheonixPack\obj\Debug\netstandard2.0\PheonixPack.Resources.Artwork.resources
+C:\Users\anime\Source\Repos\PheonixPack\obj\Debug\netstandard2.0\PheonixPack.csproj.GenerateResource.cache
+C:\Users\anime\Source\Repos\PheonixPack\obj\Debug\netstandard2.0\PluginInfo.cs
+C:\Users\anime\Source\Repos\PheonixPack\obj\Debug\netstandard2.0\PheonixPack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anime\Source\Repos\PheonixPack\obj\Debug\netstandard2.0\PheonixPack.AssemblyInfoInputs.cache
+C:\Users\anime\Source\Repos\PheonixPack\obj\Debug\netstandard2.0\PheonixPack.AssemblyInfo.cs
+C:\Users\anime\Source\Repos\PheonixPack\obj\Debug\netstandard2.0\PheonixPack.csproj.CoreCompileInputs.cache
+C:\Users\anime\Source\Repos\PheonixPack\bin\Debug\netstandard2.0\PheonixPack.deps.json
+C:\Users\anime\Source\Repos\PheonixPack\bin\Debug\netstandard2.0\PheonixPack.dll
+C:\Users\anime\Source\Repos\PheonixPack\bin\Debug\netstandard2.0\PheonixPack.pdb
+C:\Users\anime\Source\Repos\PheonixPack\bin\Debug\netstandard2.0\API.dll
+C:\Users\anime\Source\Repos\PheonixPack\bin\Debug\netstandard2.0\Assembly-CSharp.dll
+C:\Users\anime\Source\Repos\PheonixPack\bin\Debug\netstandard2.0\Sirenix.Serialization.dll
+C:\Users\anime\Source\Repos\PheonixPack\obj\Debug\netstandard2.0\PheonixPack.csproj.CopyComplete
+C:\Users\anime\Source\Repos\PheonixPack\obj\Debug\netstandard2.0\PheonixPack.dll
+C:\Users\anime\Source\Repos\PheonixPack\obj\Debug\netstandard2.0\PheonixPack.pdb

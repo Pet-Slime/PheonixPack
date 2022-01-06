@@ -118,34 +118,82 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="PI_aavri_converted" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>PI_aavri_converted.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="Aavri" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Aavri.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="PI_Credi2_converted" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>PI_Credi2_converted.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="Alpha" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Alpha.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="PI_Credi_converted" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>PI_Credi_converted.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="Ankaa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Ankaa.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="PI_Flancie_converted" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>PI_Flancie_converted.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="Asta" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Asta.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="PI_Koeno_converted" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>PI_Koeno_converted.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="Beta" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Beta.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="PI_Minerva_converted" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>PI_Minerva_converted.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="Charlie" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Charlie.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="PI_Naomi_converted" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>PI_Naomi_converted.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="credi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\credi.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="PI_Pollyanna_converted" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>PI_Pollyanna_converted.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="credi_kaiju" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\credi_kaiju.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="PI_Sabrina_converted" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>PI_Sabrina_converted.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="Damiya" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Damiya.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="PI_Smolstar_converted" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>PI_Smolstar_converted.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="Elda" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Elda.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Flancie" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Flancie.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Koeno" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Koeno.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Maeja" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Maeja.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Migiri" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Migiri.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Minerva" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Minerva.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Motuz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Motuz.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Naomi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Naomi.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Pollyanna" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Pollyanna.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Rathian" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Rathian.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Richard" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Richard.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Riowa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Riowa.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Sabrina" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Sabrina.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Serbirb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Serbirb.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Smolstar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Smolstar.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Snufaroth" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Snufaroth.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Uno" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Artwork\Uno.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>

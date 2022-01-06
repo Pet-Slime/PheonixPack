@@ -1,10 +1,6 @@
 ﻿using System.Collections;
 using APIPlugin;
 using DiskCardGame;
-using UnityEngine;
-using System;
-using System.Collections.Generic;
-using Resources = PheonixPack.Artwork.Resources;
 
 namespace PheonixPack
 {

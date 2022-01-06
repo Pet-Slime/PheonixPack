@@ -5,7 +5,7 @@ using DiskCardGame;
 using HarmonyLib;
 using UnityEngine;
 using APIPlugin;
-using Resources = PheonixPack.Artwork.Resources;
+using Resources = PheonixPack.Resources.Artwork;
 
 namespace PheonixPack.cards
 {
@@ -34,13 +34,13 @@ namespace PheonixPack.cards
 
 			List<CardAppearanceBehaviour.Appearance> appearanceBehaviour = new List<CardAppearanceBehaviour.Appearance>();
 
-			Texture2D DefaultTexture = SigilUtils.LoadTextureFromResource(Resources.PI_Koeno_converted);
+			Texture2D DefaultTexture = SigilUtils.LoadTextureFromResource(Resources.Artwork.credi);
 
-			Texture2D eTexture = SigilUtils.LoadTextureFromResource(Resources.PI_Koeno_converted);
+			Texture2D eTexture = SigilUtils.LoadTextureFromResource(Resources.Artwork.credi);
 
 			string description = "...";
 
-			EvolveIdentifier evolveId = new EvolveIdentifier("Credi Kaiju", 3, null);
+			EvolveIdentifier evolveId = new EvolveIdentifier("PI_Credi_Big", 3, null);
 
 			IceCubeIdentifier iceCubeId = null;
 

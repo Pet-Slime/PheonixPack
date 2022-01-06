@@ -1,11 +1,6 @@
 using BepInEx;
 using BepInEx.Logging;
-using System.Collections.Generic;
-using DiskCardGame;
 using HarmonyLib;
-using UnityEngine;
-using APIPlugin;
-using Resources = PheonixPack.Artwork.Resources;
 using PheonixPack.cards;
 
 
@@ -29,13 +24,33 @@ namespace PheonixPack
 		{
 			Log = base.Logger;
 
-			Harmony harmony = new(PluginGuid);
-			harmony.PatchAll();
-
-
-
 			AddSigilsToBook();
 			Aavri.AddCard();
+			Alpha.AddCard();
+			Ankaa.AddCard();
+			Asta.AddCard();
+			Beta.AddCard();
+			Charlie.AddCard();
+			Credi.AddCard();
+			Credi_Big.AddCard();
+			Damiya.AddCard();
+			Elda.AddCard();
+			Flancie.AddCard();
+			Koeno.AddCard();
+			Maeja.AddCard();
+			Migiri.AddCard();
+			Minerva.AddCard();
+			Motuz.AddCard();
+			Naomi.AddCard();
+			Pollyanna.AddCard();
+			Rathian.AddCard();
+			Richard.AddCard();
+			Riowa.AddCard();
+			Sabrina.AddCard();
+			Serbirb.AddCard();
+			Smolstar.AddCard();
+			Snufaroth.AddCard();
+			Uno.AddCard();
 
 
 		}

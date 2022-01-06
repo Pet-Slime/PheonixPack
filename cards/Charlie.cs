@@ -5,7 +5,7 @@ using DiskCardGame;
 using HarmonyLib;
 using UnityEngine;
 using APIPlugin;
-using Resources = PheonixPack.Artwork.Resources;
+using Resources = PheonixPack.Resources.Artwork;
 
 namespace PheonixPack.cards
 {
@@ -35,9 +35,9 @@ namespace PheonixPack.cards
 			List<CardAppearanceBehaviour.Appearance> appearanceBehaviour = new List<CardAppearanceBehaviour.Appearance>();
 			customAbilities.Add(AbilityIdentifier.GetAbilityIdentifier("extraVoid.inscryption.voidSigils", "Bodyguard"));
 
-			Texture2D DefaultTexture = SigilUtils.LoadTextureFromResource(Resources.PI_Koeno_converted);
+			Texture2D DefaultTexture = SigilUtils.LoadTextureFromResource(Resources.Artwork.Charlie);
 
-			Texture2D eTexture = SigilUtils.LoadTextureFromResource(Resources.PI_Koeno_converted);
+			Texture2D eTexture = SigilUtils.LoadTextureFromResource(Resources.Artwork.Charlie);
 
 			string description = "...";
 

@@ -5,7 +5,7 @@ using DiskCardGame;
 using HarmonyLib;
 using UnityEngine;
 using APIPlugin;
-using Resources = PheonixPack.Artwork.Resources;
+using Resources = PheonixPack.Resources.Artwork;
 
 namespace PheonixPack.cards
 {
@@ -36,9 +36,9 @@ namespace PheonixPack.cards
 			List<CardAppearanceBehaviour.Appearance> appearanceBehaviour = new List<CardAppearanceBehaviour.Appearance>();
 			customAbilities.Add(AbilityIdentifier.GetAbilityIdentifier("extraVoid.inscryption.voidSigils", "Bone Picker"));
 
-			Texture2D DefaultTexture = SigilUtils.LoadTextureFromResource(Resources.PI_Koeno_converted);
+			Texture2D DefaultTexture = SigilUtils.LoadTextureFromResource(Resources.Artwork.Richard);
 
-			Texture2D eTexture = SigilUtils.LoadTextureFromResource(Resources.PI_Koeno_converted);
+			Texture2D eTexture = SigilUtils.LoadTextureFromResource(Resources.Artwork.Richard);
 
 			string description = "...";
 
